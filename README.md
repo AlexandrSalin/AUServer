@@ -1,0 +1,2 @@
+# AUServer
+Android update server
